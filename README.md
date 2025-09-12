@@ -27,7 +27,6 @@ Some of the patterns that will be included in this repository are:
 - **Platform:** LeetCode
 - **Version Control:** GitHub
 
-- 
 ## How to Use
 1. Clone the repository:
 
